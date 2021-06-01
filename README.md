@@ -11,7 +11,7 @@
 [![MongoDB](images/mongo.jpg)](https://www.mongodb.com/es)
 [![Angular](images/angular.png)](https://angular.io/)
 
-### :hammer_and_wrench: **I have knowledge of**
+### :hammer_and_wrench: **I have knowledge of technologies**
 
 [![HTML](images/html.png)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](images/css.png)](https://developer.mozilla.org/es/docs/Web/CSS)
