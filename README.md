@@ -27,7 +27,7 @@
 [![Trello](images/trello.png)](https://trello.com/es)
 [![Jira](images/jira.png)](https://www.atlassian.com/es/software/jira)
 
-### :hammer_and_wrench: **I have knowledge of project manager**
+### :hammer_and_wrench: **I have knowledge of design tools**
 
 [![Figma](images/figma.png)](https://www.figma.com/)
 
