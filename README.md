@@ -1,5 +1,9 @@
 # Hi, I’m **@martingallinelli** 👋
 
+> ### :point_right: [COMPLETE C.V.](https://martingallinelli.github.io/)
+
+<br>
+
 ### :green_book: **I’m currently learning**
 
 [![MongoDB](images/mongo.jpg)](https://www.mongodb.com/es)
@@ -29,7 +33,6 @@
 ### :triangular_ruler: **I have knowledge of design tools**
 
 [![Figma](images/figma.png)](https://www.figma.com/)
-
 
 <!-- 
 Estadistica de uso de lenguajes en github
