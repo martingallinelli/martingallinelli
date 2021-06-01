@@ -7,7 +7,6 @@
 
 ### :hammer_and_wrench: **I have knowledge of**
 
-
 [![HTML](images/html.png)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](images/css.png)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![Bootstrap](images/bootstrap.png)](https://getbootstrap.com/)
@@ -19,7 +18,7 @@
 [![Laravel](images/laravel.png)](https://laravel.com/)
 [![MySQL](images/mysql.png)](https://www.mysql.com/)
 
-### :hammer_and_wrench: **I have knowledge of project manager**
+### :clipboard: **I have knowledge of project manager**
 
 [![GIT](images/git.png)](https://git-scm.com/)
 [![GitHub](images/github.png)](https://github.com/)
@@ -27,7 +26,7 @@
 [![Trello](images/trello.png)](https://trello.com/es)
 [![Jira](images/jira.png)](https://www.atlassian.com/es/software/jira)
 
-### :hammer_and_wrench: **I have knowledge of design tools**
+### :triangular_ruler: **I have knowledge of design tools**
 
 [![Figma](images/figma.png)](https://www.figma.com/)
 
