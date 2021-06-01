@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @martingallinelli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning MongoDB and Angular 11
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m **@martingallinelli** 👋
 
-[![GitHub](images/github.png)](http://github.com)
+### :green_book: I’m currently learning **MongoDB** and **Angular 11**
+
+### :gear: **I’m currently working with**
+
+
+## 
+
+
+[![Bootstrap](images/jquery.png)](http://github.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martingallinelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
