@@ -1,6 +1,6 @@
 # Hi, I’m **@martingallinelli** 👋
 
-[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/martingallinelli/)
+> ### :point_right: [![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/martingallinelli/)
 
 > ### :point_right: [COMPLETE C.V.](https://martingallinelli.github.io/)
 
