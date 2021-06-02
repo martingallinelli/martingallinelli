@@ -8,7 +8,6 @@
 
 ### :green_book: **I’m currently learning**
 
-[![MongoDB](images/mongo.jpg)](https://www.mongodb.com/es)
 [![Angular](images/angular.png)](https://angular.io/)
 
 ### :hammer_and_wrench: **I have knowledge of technologies**
@@ -23,6 +22,7 @@
 [![PHP](images/php.png)](https://www.php.net/manual/es/intro-whatis.php)
 [![Laravel](images/laravel.png)](https://laravel.com/)
 [![MySQL](images/mysql.png)](https://www.mysql.com/)
+[![MongoDB](images/mongo.jpg)](https://www.mongodb.com/es)
 
 ### :clipboard: **I have knowledge of project manager**
 
