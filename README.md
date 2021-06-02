@@ -6,10 +6,6 @@
 
 <br>
 
-### :green_book: **I’m currently learning**
-
-[![Angular](images/angular.png)](https://angular.io/)
-
 ### :computer: **I'm working with**
 
 [![HTML](images/html.png)](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -19,6 +15,11 @@
 [![PHP](images/php.png)](https://www.php.net/manual/es/intro-whatis.php)
 [![Laravel](images/laravel.png)](https://laravel.com/)
 [![MySQL](images/mysql.png)](https://www.mysql.com/)
+
+### :green_book: **I’m currently learning**
+
+[![Angular](images/angular.png)](https://angular.io/)
+
 ### :hammer_and_wrench: **I have knowledge of technologies**
 
 [![HTML](images/html.png)](https://developer.mozilla.org/es/docs/Web/HTML)
