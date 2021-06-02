@@ -10,6 +10,15 @@
 
 [![Angular](images/angular.png)](https://angular.io/)
 
+### :computer: **I'm working with**
+
+[![HTML](images/html.png)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![Bootstrap](images/bootstrap.png)](https://getbootstrap.com/)
+[![TailwindCSS](images/tailwindcss.png)](https://tailwindcss.com/)
+[![Javascript](images/js.png)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![PHP](images/php.png)](https://www.php.net/manual/es/intro-whatis.php)
+[![Laravel](images/laravel.png)](https://laravel.com/)
+[![MySQL](images/mysql.png)](https://www.mysql.com/)
 ### :hammer_and_wrench: **I have knowledge of technologies**
 
 [![HTML](images/html.png)](https://developer.mozilla.org/es/docs/Web/HTML)
