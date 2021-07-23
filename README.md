@@ -1,4 +1,4 @@
-# Hi, I’m **@martingallinelli** 👋
+# Hi there 👋, my name is Martin Gallinelli
 
 > ### :point_right: [![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/martingallinelli/)
 
