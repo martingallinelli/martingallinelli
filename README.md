@@ -19,7 +19,7 @@
 ### :green_book: **I’m currently learning**
 
 [![PHP](images/php.png)](https://www.php.net/manual/es/intro-whatis.php)
-// [![Angular](images/angular.png)](https://angular.io/)
+<> [![Angular](images/angular.png)](https://angular.io/)
 
 ### :hammer_and_wrench: **I have knowledge of technologies**
 
